@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="to_do_app_lab_05">TO DO APP - LAB 05</string>
+    <string name="s92068516_521428516">s92068516 / 521428516</string>
+    <string name="enter_new_task">Enter New Task</string>
+    <string name="save">Save</string>
+    <string name="this_is_task_1">This is Task 1</string>
+    <string name="to_do_tasks">My Tasks</string>
+    <string name="todo_add_button">TODO ADD BUTTON</string>
+</resources>
